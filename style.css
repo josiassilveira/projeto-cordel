@@ -78,13 +78,13 @@ section.imagem{
 }
 
 section#img01{
-    background-image: url('../desafio12/background001.jpg');
+    background-image: url('../projeto-cordel/background001.jpg');
     background-position: right top;
     background-size: cover;
 }
 
 section#img02{
-    background-image: url('../desafio12/background002.jpg');
+    background-image: url('../projeto-cordel/background002.jpg');
     background-position: right top;
     background-size: cover;
 }
